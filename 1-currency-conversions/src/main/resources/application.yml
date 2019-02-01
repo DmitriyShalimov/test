@@ -1,0 +1,2 @@
+currency.update.time: 86400000
+currency.rate.path: rates_response_sample.json
